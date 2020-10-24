@@ -1,5 +1,6 @@
 <?php
     // Major Task -  23rd October 2020
+    // Scripts to Generate Username and Password for Individual users
 
     //Slack Username - @veecthorpaul
 
